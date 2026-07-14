@@ -117,6 +117,7 @@ This repository collects state-of-the-art papers (most from Nature family journa
 | ------------------------------------------------------- | ---------------- | ------------ | --------------------------------------------- | ----- |
 | DeepSpot2Cell: Predicting Virtual Single-Cell Spatial Transcriptomics from H&E images using Spot-Level Supervision | *NeurIPS* | **2025** | Virtual single-cell ST from H&E with spot-level supervision | [[PDF]](https://openreview.net/forum?id=ofCkwXQKaz) [[Code]](https://github.com/ratschlab/DeepSpot2Cell) |
 | DeepSpot-M: a multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology | *medRxiv* | **2026** | Transcriptome-wide virtual ST from histology tiles | [[PDF]](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1) [[Code]](https://github.com/ratschlab/DeepSpotM) |
+| DeepSpot: Leveraging Spatial Context for Enhanced Spatial Transcriptomics Prediction from H&E Images | *medRxiv* | **2025** | ST prediction from H&E with spatial context | [[PDF]](https://www.medrxiv.org/content/10.1101/2025.02.09.25321567v3) [[Code]](https://github.com/ratschlab/DeepSpot) |
 | AI-driven 3D Spatial Transcriptomics                    | *arXiv*          | **Feb 2025** | Generates 3-D ST volumes from serial sections |       |
 | An end-to-end workflow for nondestructive 3-D pathology | *Nat. Protocols* | **Apr 2024** | Clears, images & analyses thick tissue        |       |
 
