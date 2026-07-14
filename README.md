@@ -115,6 +115,7 @@ This repository collects state-of-the-art papers (most from Nature family journa
 
 | Paper                                                   | Venue            | Date         | Highlight                                     | Links |
 | ------------------------------------------------------- | ---------------- | ------------ | --------------------------------------------- | ----- |
+| DeepSpot2Cell: Predicting Virtual Single-Cell Spatial Transcriptomics from H&E images using Spot-Level Supervision | *NeurIPS* | **2025** | Virtual single-cell ST from H&E with spot-level supervision | [[PDF]](https://openreview.net/forum?id=ofCkwXQKaz) [[Code]](https://github.com/ratschlab/DeepSpot2Cell) |
 | AI-driven 3D Spatial Transcriptomics                    | *arXiv*          | **Feb 2025** | Generates 3-D ST volumes from serial sections |       |
 | An end-to-end workflow for nondestructive 3-D pathology | *Nat. Protocols* | **Apr 2024** | Clears, images & analyses thick tissue        |       |
 
