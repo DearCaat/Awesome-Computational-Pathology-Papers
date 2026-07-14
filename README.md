@@ -115,6 +115,7 @@ This repository collects state-of-the-art papers (most from Nature family journa
 
 | Paper                                                   | Venue            | Date         | Highlight                                     | Links |
 | ------------------------------------------------------- | ---------------- | ------------ | --------------------------------------------- | ----- |
+| DeepSpot: Leveraging Spatial Context for Enhanced Spatial Transcriptomics Prediction from H&E Images | *medRxiv* | **2025** | ST prediction from H&E with spatial context | [[PDF]](https://www.medrxiv.org/content/10.1101/2025.02.09.25321567v3) [[Code]](https://github.com/ratschlab/DeepSpot) |
 | AI-driven 3D Spatial Transcriptomics                    | *arXiv*          | **Feb 2025** | Generates 3-D ST volumes from serial sections |       |
 | An end-to-end workflow for nondestructive 3-D pathology | *Nat. Protocols* | **Apr 2024** | Clears, images & analyses thick tissue        |       |
 
