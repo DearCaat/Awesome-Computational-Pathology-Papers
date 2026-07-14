@@ -115,6 +115,7 @@ This repository collects state-of-the-art papers (most from Nature family journa
 
 | Paper                                                   | Venue            | Date         | Highlight                                     | Links |
 | ------------------------------------------------------- | ---------------- | ------------ | --------------------------------------------- | ----- |
+| Representation learning for multi-modal spatially resolved transcriptomics data (AESTETIK) | *Bioinformatics* | **2026** | Multi-modal ST + morphology representation learning | [[PDF]](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag316/8692433) [[Code]](https://github.com/ratschlab/aestetik) |
 | AI-driven 3D Spatial Transcriptomics                    | *arXiv*          | **Feb 2025** | Generates 3-D ST volumes from serial sections |       |
 | An end-to-end workflow for nondestructive 3-D pathology | *Nat. Protocols* | **Apr 2024** | Clears, images & analyses thick tissue        |       |
 
