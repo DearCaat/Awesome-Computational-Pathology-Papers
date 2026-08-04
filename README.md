@@ -87,6 +87,8 @@ This repository collects state-of-the-art papers (most from Nature family journa
 
 | Paper                                                                           | Venue          | Date         | Highlight                                | Links |
 | ------------------------------------------------------------------------------- | -------------- | ------------ | ---------------------------------------- | ----- |
+| TCGA virtual spatial transcriptomics atlas | *medRxiv* | **2026** | DeepSpot-M predicted ST for ~28.7k TCGA H&E slides | [[HF]](https://huggingface.co/datasets/ratschlab/TCGA_virtual_spatial_transcriptomics_atlas) [[PDF]](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1) [[Code]](https://github.com/ratschlab/DeepSpotM) |
+| HEST Xenium virtual spatial transcriptomics | *medRxiv* | **2026** | DeepSpot-M predicted ST for 59 HEST Xenium samples (~13.3M cells) | [[HF]](https://huggingface.co/datasets/ratschlab/HEST_Xenium_virtual_spatial_transcriptomics) [[PDF]](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1) [[Code]](https://github.com/ratschlab/DeepSpotM) |
 | MedBookVQA: A Systematic & Comprehensive Medical VQA Benchmark                  | *arXiv*        | **Jun 2025** | 2 M Q–A pairs from open-access textbooks |       |
 | PathBench: A Comparison Benchmark for Pathology Foundation Models               | *arXiv*        | **May 2025** | 12 tasks, 30 + FMs, oncology-oriented    |       |
 | MEDTRINITY-25M: A Large-Scale Multimodal Dataset with Multigranular Annotations | *ICLR*         | **Feb 2025** | 25 M image-text pairs across 17 organs   |       |
